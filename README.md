@@ -2,7 +2,7 @@
 
 # Cupcakes voor Halloween.
 
-![cupcakes](link naar afbeelding cupcakes) (https://www.leukerecepten.nl/wp-content/uploads/2020/10/halloween-cakje.jpg)]
+![cupcakes](https://www.leukerecepten.nl/wp-content/uploads/2020/10/halloween-cakje.jpg)]
 
 ## BENODIGDHEDEN
 
