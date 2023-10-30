@@ -1,8 +1,8 @@
 # skil_markdown_les
 
-# Cupcakes voor Halloween
+# Cupcakes voor Halloween.
 
-(!) [https://www.leukerecepten.nl/wp-content/uploads/2020/10/(halloween-cakje.jpg)]
+![cupcakes](link naar afbeelding cupcakes) (https://www.leukerecepten.nl/wp-content/uploads/2020/10/halloween-cakje.jpg)]
 
 ## BENODIGDHEDEN
 
